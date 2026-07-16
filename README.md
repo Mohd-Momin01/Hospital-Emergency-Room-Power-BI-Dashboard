@@ -273,7 +273,7 @@ Aspiring Data Analyst
 📧 khanmomin1166@gmail.com
 
 LinkedIn:
-https://www.linkedin.com/in/mohd-momin
+[https://www.linkedin.com/in/mohd-momin01](https://www.linkedin.com/in/mohd-momin-58748b344/)
 
 GitHub:
 https://github.com/Mohd-Momin01
