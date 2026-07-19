@@ -31,9 +31,9 @@ The dashboard helps answer critical business questions such as:
 
 ---
 
-# 📷 Dashboard Preview (Coming Soon)
+# 📷 Dashboard Preview 
 
-## Cover (Coming Soon)
+## Cover 
 
 ![Cover Image](Images/Cover%20Image.png)
 
