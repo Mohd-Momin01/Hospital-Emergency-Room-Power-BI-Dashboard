@@ -35,31 +35,31 @@ The dashboard helps answer critical business questions such as:
 
 ## Cover (Coming Soon)
 
-![Cover](Images/Cover.png)
+![Cover Image](Images/Cover%20Image.png)
 
 ---
 
 ## Monthly Dashboard
 
-![Monthly Dashboard](Images/Monthly_Dashboard.png)
+![Monthly Dashboard](Images/Monthly%20View%20Dashboard.png)
 
 ---
 
 ## Consolidated Dashboard
 
-![Consolidated Dashboard](Images/Consolidated_Dashboard.png)
+![Consolidated Dashboard](Images/Consolidated%20View%20Dashboard.png)
 
 ---
 
 ## Patient Details
 
-![Patient Details](Images/Patient_Details.png)
+![Patient Details](Images/Patients%20Details%20View.png)
 
 ---
 
 ## Key Business Insights
 
-![Business Insights](Images/Business_Insights.png)
+![Business Insights](Images/Business%20Insights.png)
 
 ---
 
